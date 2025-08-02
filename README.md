@@ -34,4 +34,4 @@ Survive as many stages as possible by clicking cards to earn points while avoidi
 - **Risk Management**: Auto-progression increases pressure after Stage 2
 
 *Can you survive all stages and become the ultimate card survivor?* 🃏💀
-# death_game
+
